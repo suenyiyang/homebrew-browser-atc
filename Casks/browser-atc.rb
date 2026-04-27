@@ -1,6 +1,6 @@
 cask "browser-atc" do
-  version "0.1.8"
-  sha256 "a1423cbe3ba9824a6763b6e5792a7aa1eea9795642cd60ea199a4756d9995847"
+  version "0.1.9"
+  sha256 "127ec124162156992a24b833350fc012893dcf1c6e1d15a3403c63d70fe6ca84"
 
   url "https://github.com/suenyiyang/browser-atc/releases/download/v#{version}/BrowserATC.app.zip"
   name "Browser Air Traffic Controller"
